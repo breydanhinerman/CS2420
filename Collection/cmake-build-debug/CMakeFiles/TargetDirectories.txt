@@ -1,0 +1,3 @@
+C:/Users/breyd/Desktop/Homework/CS 2420/Module 1/Collection/cmake-build-debug/CMakeFiles/Collection.dir
+C:/Users/breyd/Desktop/Homework/CS 2420/Module 1/Collection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/breyd/Desktop/Homework/CS 2420/Module 1/Collection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
